@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66137c25-5bce-4d89-bd54-70d2f94c9c72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mmall.iws" />
@@ -810,7 +808,7 @@
       <workItem from="1498147411556" duration="604000" />
       <workItem from="1498221124501" duration="1655000" />
       <workItem from="1498384920700" duration="1813000" />
-      <workItem from="1498386928335" duration="7231000" />
+      <workItem from="1498386928335" duration="7244000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1497875623445</created>
@@ -824,11 +822,17 @@
       <option name="project" value="LOCAL" />
       <updated>1498398858607</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create project">
+      <created>1498398936874</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498398936874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43424000" />
+    <option name="totallyTimeSpent" value="43437000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
